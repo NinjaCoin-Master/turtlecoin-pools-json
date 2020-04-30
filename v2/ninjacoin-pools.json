@@ -3,7 +3,7 @@
     {
       "name": "FastPool.xyz",
       "url": "https://fastpool.xyz/ninja/",
-      "api": "https://fastpool.xyz/api-ninja",
+      "api": "https://fastpool.xyz/api-ninja/",
       "type": "forknote",
       "miningAddress": "fastpool.xyz",
       "mergedMining": false,
