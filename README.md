@@ -1,8 +1,8 @@
-# turtlecoin-pool-list
+# ninjacoin-pool-list
 
-The goal of this repository is to have a central list of pools for TurtleCoin (https://turtlecoin.lol) mining. If you run a pool, please submit a Pull Request against *v2/turtlecoin-pools.json* to get added.
+The goal of this repository is to have a central list of pools for NinjaCoin (https://ninjacoin.org) mining. If you run a pool, please submit a Pull Request against *v2/turtlecoin-pools.json* to get added.
 
-This list can be consumed in your application so you'll always have an up-to-date list of pools. To consume the list, just use the following URL: https://raw.githubusercontent.com/turtlecoin/turtlecoin-pools-json/master/v2/turtlecoin-pools.json
+This list can be consumed in your application so you'll always have an up-to-date list of pools. To consume the list, just use the following URL: https://raw.githubusercontent.com/ninjacoin-master/ninjacoin-pools-json/master/v2/ninjacoin-pools.json
 
 ## Contributing
 
