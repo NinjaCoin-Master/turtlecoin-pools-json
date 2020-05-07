@@ -1,6 +1,15 @@
 {
   "pools": [
     {
+      "name": "NinjaNode.net",
+      "url": "https://pool.ninjanode.net/",
+      "api": "https://pool.ninjanode.net/api/",
+      "type": "forknote",
+      "miningAddress": "fastpool.xyz",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "FastPool.xyz",
       "url": "https://fastpool.xyz/ninja/",
       "api": "https://fastpool.xyz/api-ninja/",
