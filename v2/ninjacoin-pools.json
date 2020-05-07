@@ -5,7 +5,7 @@
       "url": "https://pool.ninjanode.net/",
       "api": "https://pool.ninjanode.net/api/",
       "type": "forknote",
-      "miningAddress": "fastpool.xyz",
+      "miningAddress": "pool.ninjanode.net",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
