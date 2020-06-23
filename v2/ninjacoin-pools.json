@@ -17,6 +17,15 @@
       "miningAddress": "fastpool.xyz",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
+    },
+        {
+      "name": "LetsHash.it",
+      "url": "http://ninja.letshash.it/",
+      "api": "http://ninja.letshash.it:8116/",
+      "type": "forknote",
+      "miningAddress": "letshash.it",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
     }
   ]
 }
