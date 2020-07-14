@@ -20,7 +20,7 @@
     },
         {
       "name": "LetsHash.it",
-      "url": "http://ninja.letshash.it/",
+      "url": "https://letshash.it/ninja/",
       "api": "http://ninja.letshash.it:8116/",
       "type": "forknote",
       "miningAddress": "letshash.it",
