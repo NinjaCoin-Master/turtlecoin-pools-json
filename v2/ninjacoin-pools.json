@@ -21,7 +21,7 @@
         {
       "name": "LetsHash.it",
       "url": "https://letshash.it/ninja/",
-      "api": "https://letshash.it/api/pools",
+      "api": "https://letshash.it/api/",
       "type": "forknote",
       "miningAddress": "letshash.it",
       "mergedMining": false,
