@@ -26,6 +26,15 @@
       "miningAddress": "letshash.it",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
+    },
+        {
+      "name": "Pool-Pay.com",
+      "url": "https://ninja.pool-pay.com/",
+      "api": "https://ninja.pool-pay.com:5253/",
+      "type": "forknote",
+      "miningAddress": "pool-pay.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
     }
   ]
 }
