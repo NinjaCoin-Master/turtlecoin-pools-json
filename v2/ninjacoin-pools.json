@@ -35,6 +35,15 @@
       "miningAddress": "pool-pay.com",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
+    },
+        {
+      "name": "AllCoinsPool.com",
+      "url": "httpss://ninja.allcoinspool.com/",
+      "api": "https://ninja.allcoinspool.com:8219/",
+      "type": "forknote",
+      "miningAddress": "allcoinspool.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
     }
   ]
 }
