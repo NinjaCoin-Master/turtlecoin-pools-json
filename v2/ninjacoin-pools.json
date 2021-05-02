@@ -38,8 +38,8 @@
     },
         {
       "name": "ProxyLogin.net",
-      "url": "http://pool.proxylogin.net/ninja/",
-      "api": "http://ninja.proxylogin.net:8118/",
+      "url": "http://proxylogin.net/ninja/",
+      "api": "http://ninja.proxylogin.net:8217/",
       "type": "forknote",
       "miningAddress": "ninja.proxylogin.net",
       "mergedMining": false,
