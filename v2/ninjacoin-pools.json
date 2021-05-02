@@ -37,6 +37,15 @@
       "mergedMiningIsParentChain": false
     },
         {
+      "name": "ProxyLogin.net",
+      "url": "http://proxylogin.net/ninja/",
+      "api": "http://ninja.proxylogin.net:8217/",
+      "type": "forknote",
+      "miningAddress": "ninja.proxylogin.net",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+        {
       "name": "AllCoinsPool.com",
       "url": "httpss://ninja.allcoinspool.com/",
       "api": "https://ninja.allcoinspool.com:8219/",
